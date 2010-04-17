@@ -4,7 +4,7 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "bitly"
+    gem.name = "bitlys_r_us"
     gem.summary = %Q{bitly gem}
     gem.description = %Q{bitly gem whoop!}
     gem.email = "reddavis@gmail.com"
